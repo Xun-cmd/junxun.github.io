@@ -1,1 +1,1 @@
-https://github.com/Xun-cmd/junxun.github.io/tree/main
+junxun.github.io
